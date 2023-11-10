@@ -1,0 +1,2 @@
+:= should only be used for declarations
+= should still be used for changing values
