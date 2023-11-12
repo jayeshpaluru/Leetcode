@@ -13,3 +13,4 @@
 - Best Time to Buy and Sell Stock II (11/11/2023 #122)
 - Jump Game (11/12/2023 #55)
 - Jump Game II (11/12/2023 #45)
+- H-Index (11/12/2023 #274)
