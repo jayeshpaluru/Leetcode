@@ -14,3 +14,5 @@
 - Jump Game (11/12/2023 #55)
 - Jump Game II (11/12/2023 #45)
 - H-Index (11/12/2023 #274)
+- Insert Delete GetRandom O(1) (11/13/2023 #380)
+- Product of Array Except Self (11/13/2023 #238)
