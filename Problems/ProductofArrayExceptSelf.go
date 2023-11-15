@@ -4,6 +4,12 @@ package main
 // Return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i]
 // Must run in O(n) time and without using division
 
+// Solution: Use two arrays, left and right
+// left[i] is the product of all the elements of nums before nums[i]
+// right[i] is the product of all the elements of nums after nums[i]
+// Then answer[i] = left[i] * right[i]
+// We can use two variables to store the product of all the elements before and after nums[i] instead of two arrays
+// Then we can compute the answer in one pass
 func productExceptSelf(nums []int) []int {
 	answer := make([]int, len(nums))
 	answer[0] = 1

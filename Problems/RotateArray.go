@@ -11,6 +11,7 @@ func reverse(nums []int, start int, end int) {
 	}
 }
 
+// Solution: Reverse the entire array, then reverse the first k elements, then reverse the rest of the elements
 func rotate(nums []int, k int) {
 	k %= len(nums)
 	reverse(nums, 0, len(nums)-1)
