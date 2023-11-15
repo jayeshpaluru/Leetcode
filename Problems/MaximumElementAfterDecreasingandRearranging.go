@@ -11,6 +11,9 @@ package main
 import "sort"
 
 // This solution works by sorting the array and then iterating through it.
+// For each element, we check if the difference between the current element and the previous element is greater than 1.
+// If it is, then we set the current element to the previous element plus 1.
+// At the end, we return the last element in the array.
 func maximumElementAfterDecrementingAndRearranging(arr []int) int {
 	sort.Ints(arr)
 	arr[0] = 1
