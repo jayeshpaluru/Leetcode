@@ -2,7 +2,7 @@
 
 ## A bunch of leetcode problems in Go (updated daily)
 
-### Completed Problems
+### Top Interview 150
 - Merge Sorted Array (11/09/2023 #88)
 - Remove Element (11/09/2023 #27)
 - Remove Duplicates from Sorted Array (11/10/2023 #26)
@@ -16,9 +16,11 @@
 - H-Index (11/12/2023 #274)
 - Insert Delete GetRandom O(1) (11/13/2023 #380)
 - Product of Array Except Self (11/13/2023 #238)
-- Unique Length-3 Palindromic Subsequences (11/13/2023 #1930)
-- Maximum Element After Decreasing and Rearranging (11/14/2023 #1846)
 - Gas Station (11/14/2023 #134)
 - Candy (11/15/2023 #135)
 - Trapping Rain Water (11/15/2023 #42)
 - Roman to Integer (11/15/2023 #13)
+### Daily Problems
+- Unique Length-3 Palindromic Subsequences (11/13/2023 #1930)
+- Maximum Element After Decreasing and Rearranging (11/14/2023 #1846)
+- Find Unique Binary String (11/15/2023 #1980)
