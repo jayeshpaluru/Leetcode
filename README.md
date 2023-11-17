@@ -25,6 +25,8 @@
 - Unique Length-3 Palindromic Subsequences (11/13/2023 #1930)
 - Maximum Element After Decreasing and Rearranging (11/14/2023 #1846)
 - Find Unique Binary String (11/15/2023 #1980)
+- Minimize Maximum Pair Sum in Array (11/17/2023 #1877)
 ### SQL 50
 - Recyclable and Low Fat Products (11/16/2023 #1757)
+- Find Customer Referee (11/17/2023 #584)
 
