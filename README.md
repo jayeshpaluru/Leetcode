@@ -1,6 +1,6 @@
 # LeetCode
 
-## A bunch of leetcode problems in Go (updated daily)
+## A bunch of leetcode problems in Go and SQL (updated daily)
 
 ### Top Interview 150
 - Merge Sorted Array (11/09/2023 #88)
