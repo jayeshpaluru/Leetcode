@@ -29,4 +29,5 @@
 ### SQL 50
 - Recyclable and Low Fat Products (11/16/2023 #1757)
 - Find Customer Referee (11/17/2023 #584)
-
+- Big Countries (11/17/2023 #595)
+- Article Views 1 (11/17/2023 #1148)
